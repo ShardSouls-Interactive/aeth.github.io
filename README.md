@@ -27,7 +27,7 @@
 - User premium system
 - Eval slash command
 
-## ⭐Motivate me with a star if you like this repo⭐
+## #!
 
 ```bash
 npm run start
@@ -46,4 +46,4 @@ npm run start
     <h3>Coustom Client<br />
     <img src="preview/img5.jpg" alt="bothandler" width="500" height="300">
 
-### **Need Help with setup?** Join our [Discord Server](https://discord.gg/PZQT6c7gJn) and ask in the `#support` channel
+### 🚧 IN DEVELOPMENT 🚧
